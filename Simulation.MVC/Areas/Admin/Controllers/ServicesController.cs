@@ -5,6 +5,7 @@ using Simulation.DAL.Models;
 
 namespace Simulation.MVC.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class ServicesController : Controller
     {
         private readonly CollectionModelServices _services;
@@ -35,7 +36,7 @@ namespace Simulation.MVC.Areas.Admin.Controllers
         public IActionResult Update(int Id)
         {
             CollectionModel collection = _services.GetCollectionById(Id);
-            CollectionModelUpdateVM collectionModelUpdateVM = new CollectionModelUpdateVM;
+            CollectionModelUpdateVM collectionModelUpdateVM = new CollectionModelUpdateVM();
             collectionModelUpdateVM.Name = collection.Name;
             collectionModelUpdateVM.Category = collection.Category;
             collectionModelUpdateVM.ItemsInCollection = collection.ItemsInCollection;

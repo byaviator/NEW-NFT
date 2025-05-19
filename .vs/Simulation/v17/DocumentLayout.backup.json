@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +15,28 @@
       "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\areas\\admin\\views\\dashboard\\tables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4F7247F-6E02-4738-86EA-6D80F8184E94}|Simulation.DAL\\Simulation.DAL.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F7247F-6E02-4738-86EA-6D80F8184E94}|Simulation.DAL\\Simulation.DAL.csproj|solutionrelative:simulation.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\areas\\admin\\views\\services\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\areas\\admin\\views\\services\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\areas\\admin\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\areas\\admin\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F7247F-6E02-4738-86EA-6D80F8184E94}|Simulation.DAL\\Simulation.DAL.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F7247F-6E02-4738-86EA-6D80F8184E94}|Simulation.DAL\\Simulation.DAL.csproj|solutionrelative:simulation.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4F7247F-6E02-4738-86EA-6D80F8184E94}|Simulation.DAL\\Simulation.DAL.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.dal\\models\\collectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{A6088C6E-F477-47E8-B154-0DB53838CFAF}|Simulation.BL\\Simulation.BL.csproj|solutionrelative:simulation.bl\\viewmodels\\collectionmodelupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -73,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|solutionrelative:simulation.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5D4B2FE-479C-494B-B7AF-ECF9EBE1801A}|Simulation.MVC\\Simulation.MVC.csproj|c:\\users\\ii novbe\\desktop\\simulation-nft-main\\simulation.mvc\\simulation.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -146,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,46 +154,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\Services\\Update.cshtml",
               "RelativeDocumentMoniker": "Simulation.MVC\\Areas\\Admin\\Views\\Services\\Update.cshtml",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\Services\\Update.cshtml",
               "RelativeToolTip": "Simulation.MVC\\Areas\\Admin\\Views\\Services\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-19T14:25:42.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\Services\\Create.cshtml",
               "RelativeDocumentMoniker": "Simulation.MVC\\Areas\\Admin\\Views\\Services\\Create.cshtml",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\Services\\Create.cshtml",
               "RelativeToolTip": "Simulation.MVC\\Areas\\Admin\\Views\\Services\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T14:24:34.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T14:24:34.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ServicesController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Controllers\\ServicesController.cs",
               "RelativeDocumentMoniker": "Simulation.MVC\\Areas\\Admin\\Controllers\\ServicesController.cs",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Controllers\\ServicesController.cs",
               "RelativeToolTip": "Simulation.MVC\\Areas\\Admin\\Controllers\\ServicesController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T14:01:09.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "CollectionModelUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.BL\\ViewModels\\CollectionModelUpdateVM.cs",
               "RelativeDocumentMoniker": "Simulation.BL\\ViewModels\\CollectionModelUpdateVM.cs",
@@ -201,12 +200,11 @@
               "RelativeToolTip": "Simulation.BL\\ViewModels\\CollectionModelUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:43:25.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:43:25.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CollectionModelServices.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.BL\\Services\\CollectionModelServices.cs",
               "RelativeDocumentMoniker": "Simulation.BL\\Services\\CollectionModelServices.cs",
@@ -214,12 +212,11 @@
               "RelativeToolTip": "Simulation.BL\\Services\\CollectionModelServices.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAcwAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:49:01.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T11:49:01.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "CollectionModelVM.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.BL\\ViewModels\\CollectionModelVM.cs",
               "RelativeDocumentMoniker": "Simulation.BL\\ViewModels\\CollectionModelVM.cs",
@@ -227,12 +224,11 @@
               "RelativeToolTip": "Simulation.BL\\ViewModels\\CollectionModelVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:22:58.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T11:22:58.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Simulation.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -240,51 +236,49 @@
               "RelativeToolTip": "Simulation.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T11:16:58.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T11:16:58.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tables.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\Dashboard\\Tables.cshtml",
               "RelativeDocumentMoniker": "Simulation.MVC\\Areas\\Admin\\Views\\Dashboard\\Tables.cshtml",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\Dashboard\\Tables.cshtml",
               "RelativeToolTip": "Simulation.MVC\\Areas\\Admin\\Views\\Dashboard\\Tables.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-19T11:05:20.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Simulation.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs*",
-              "RelativeToolTip": "Simulation.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Simulation.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T10:57:53.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Simulation.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Simulation.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAANIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T10:39:11.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T10:39:11.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Simulation.MVC\\Controllers\\HomeController.cs",
@@ -292,25 +286,23 @@
               "RelativeToolTip": "Simulation.MVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T11:04:11.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T11:04:11.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Simulation.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Simulation.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T16:55:46.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T16:55:46.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Simulation.MVC\\Views\\Home\\Index.cshtml",
@@ -318,25 +310,23 @@
               "RelativeToolTip": "Simulation.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T11:04:49.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T11:04:49.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Program.cs",
               "RelativeDocumentMoniker": "Simulation.MVC\\Program.cs",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Program.cs",
               "RelativeToolTip": "Simulation.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T10:57:00.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T10:57:00.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Simulation.MVC\\ScaffoldingReadMe.txt",
@@ -344,12 +334,11 @@
               "RelativeToolTip": "Simulation.MVC\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-18T15:14:57.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T15:14:57.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Simulation.MVC\\Views\\_ViewImports.cshtml",
@@ -357,12 +346,11 @@
               "RelativeToolTip": "Simulation.MVC\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T11:05:56.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T11:05:56.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Simulation.MVC\\Views\\_ViewStart.cshtml",
@@ -370,12 +358,11 @@
               "RelativeToolTip": "Simulation.MVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T11:34:03.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T11:34:03.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.DAL\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Simulation.DAL\\Contexts\\AppDbContext.cs",
@@ -383,8 +370,7 @@
               "RelativeToolTip": "Simulation.DAL\\Contexts\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T12:14:59.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:14:59.141Z"
             },
             {
               "$type": "Document",
@@ -396,8 +382,7 @@
               "RelativeToolTip": "Simulation.MVC\\Simulation.MVC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAABBwAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-18T10:55:22.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T10:55:22.414Z"
             },
             {
               "$type": "Document",
@@ -409,12 +394,11 @@
               "RelativeToolTip": "Simulation.BL\\Simulation.BL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-18T10:54:45.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T10:54:45.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CollectionModel.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Simulation-NFT-main\\Simulation.DAL\\Models\\CollectionModel.cs",
               "RelativeDocumentMoniker": "Simulation.DAL\\Models\\CollectionModel.cs",
@@ -422,8 +406,7 @@
               "RelativeToolTip": "Simulation.DAL\\Models\\CollectionModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T12:09:32.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:09:32.845Z"
             },
             {
               "$type": "Document",
@@ -435,8 +418,7 @@
               "RelativeToolTip": "Simulation.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T14:33:10.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T14:33:10.477Z"
             },
             {
               "$type": "Document",
@@ -448,8 +430,7 @@
               "RelativeToolTip": "Simulation.MVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T11:05:32.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T11:05:32.138Z"
             },
             {
               "$type": "Document",
@@ -461,8 +442,7 @@
               "RelativeToolTip": "Simulation.DAL\\Models\\BaseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T12:08:15.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:08:15.33Z"
             },
             {
               "$type": "Document",
@@ -474,8 +454,7 @@
               "RelativeToolTip": "Simulation.DAL\\Migrations\\20250518124051_abu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T12:40:53.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:40:53.48Z"
             },
             {
               "$type": "Document",
@@ -487,8 +466,7 @@
               "RelativeToolTip": "Simulation.DAL\\Migrations\\20250518123427_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T12:34:31.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:34:31.223Z"
             },
             {
               "$type": "Document",
@@ -500,8 +478,7 @@
               "RelativeToolTip": "Simulation.MVC\\wwwroot\\assets\\js\\tabs.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-18T12:21:09.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:21:09.707Z"
             },
             {
               "$type": "Document",
@@ -513,8 +490,7 @@
               "RelativeToolTip": "Simulation.MVC\\wwwroot\\assets\\js\\popup.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-18T12:21:06.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:21:06.434Z"
             },
             {
               "$type": "Document",
@@ -526,8 +502,7 @@
               "RelativeToolTip": "Simulation.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-18T12:21:03.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:21:03.761Z"
             },
             {
               "$type": "Document",
@@ -539,8 +514,7 @@
               "RelativeToolTip": "Simulation.MVC\\wwwroot\\assets\\js\\isotope.min.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-18T12:21:02.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:21:02.795Z"
             },
             {
               "$type": "Document",
@@ -552,8 +526,7 @@
               "RelativeToolTip": "Simulation.MVC\\wwwroot\\assets\\js\\isotope.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-18T12:21:01.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:21:01.775Z"
             },
             {
               "$type": "Document",
@@ -565,8 +538,7 @@
               "RelativeToolTip": "Simulation.MVC\\wwwroot\\assets\\js\\custom.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-18T12:20:59.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T12:20:59.524Z"
             },
             {
               "$type": "Document",
@@ -578,8 +550,7 @@
               "RelativeToolTip": "Simulation.DAL\\Simulation.DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-18T11:03:00.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T11:03:00.216Z"
             },
             {
               "$type": "Document",
@@ -591,8 +562,7 @@
               "RelativeToolTip": "Simulation.DAL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T10:52:35.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T10:52:35.784Z"
             }
           ]
         }

@@ -528,3 +528,4 @@ C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.MVC\obj\Debug\net8.0\re
 C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.MVC\obj\Debug\net8.0\Simulation.MVC.pdb
 C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.MVC\obj\Debug\net8.0\Simulation.MVC.genruntimeconfig.cache
 C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.MVC\obj\Debug\net8.0\ref\Simulation.MVC.dll
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.MVC\obj\Debug\net8.0\Simulation.MVC.sourcelink.json
